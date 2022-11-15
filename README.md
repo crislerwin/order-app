@@ -7,4 +7,4 @@
 - Entender o funcionamento da linguagem
 - Como desenvolver uma aplicacao real aplicando testes
 - Performance e multithread com RabbitMQ
-- Monitoramento com utilizando Prometheus e Grafana
+- Monitoramento utilizando Prometheus e Grafana
